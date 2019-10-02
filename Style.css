@@ -1,0 +1,151 @@
+body{		
+text-align: center;
+font-family: 'Lora', serif;
+background-color: #D7D7D7
+margin : 0px;
+}
+
+h1{
+font-family: 'Permanent Marker', cursive;
+font-size: 24px;
+margin: 20px auto;
+padding-top: auto;
+}
+
+h1{
+color: grey; 
+}
+
+h2 {	
+font-family: 'Dancing Script', cursive;
+color: grey;
+font-size: 24px;""	
+font-weight: 300;
+}
+
+i {
+font-size: 24px;
+}
+
+p {
+font-size: 24px;
+font-family:font-family: 'Fjalla One', sans-serif;
+}
+
+
+.container {
+	margin: 20px auto; 
+	width: 1000px; 
+	font-family: 'Open Sans', sans-serif;
+}
+
+.card{
+	background-color: #B9DDEC;
+	box-shadow: 0px 10pxx 30px
+	border: auto ;
+	
+	}
+
+ol{	
+	font-size: 14px;
+	font-family: 'Dancing Script', cursive;
+	list-style: none;
+	padding-left: 0px;
+	font-size: 24px;
+}
+
+.text-red{
+	color: red;
+}
+
+.contener {
+  margin: 100px; 
+	width: auto;
+	margin: 20px auto; 
+}
+
+.card {
+margin: auto;
+padding: auto;
+border-radius: auto
+}
+
+.presentation{
+
+	background: url(photo5.png) no-repeat center center fixed; 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+background-color: #B9DDEC;
+font-family: 'Dancing Script', cursive;
+color: grey;
+font-size: 1px;
+font-weight: 10px;
+margin: 20px auto; 
+padding: auto; 
+border: solid;
+}
+
+.photo{
+	font-family: 'Open Sans', sans-serif;
+	border:dotted;
+	border-radius: 55px;
+	margin: auto; 																													
+	width: 720px;
+	padding: 
+}
+
+.card1{
+
+	margin: 5px;
+	border :2px solid black;
+}
+
+img{
+	border-radius: : 50%;
+	box-shadow: auto;
+	width: 500px;
+}
+
+.btn {
+	border: 2px solid black;
+	background-color:
+	color: black;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.palmares {
+	border-color: black;
+	color: white;
+	font-family: arial;
+	margin: 
+}
+
+.palmares:hover {
+	background: 
+	color: orange;
+}
+
+.resaux{ 
+
+font-family: arial;
+border:12px solid black;	
+width: 720px;
+padding : 24, 24, 24, 24px;
+margin: auto;
+font size: 78px;
+}
+
+body {
+	background: url(Bretagne.png) no-repeat center center fixed; 
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 100px; 
+  font-family: 'Open Sans', sans-serif;
+}
